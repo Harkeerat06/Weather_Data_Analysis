@@ -163,7 +163,7 @@ The Power BI dashboard complements the notebook with an interactive overview of:
 
 **Dashboard preview:**
 
-![Power BI Dashboard](dashboard-images/weather-dashboard.png)
+![Power BI Dashboard](dashboard-images/Main-page.png)
 
 To display the preview on GitHub, save a screenshot at `images/weather-dashboard.png`, or change the path above to match your repository. If the `.pbix` file is included in the repository, link to it here as well.
 
